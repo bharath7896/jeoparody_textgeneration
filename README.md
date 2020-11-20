@@ -1,4 +1,5 @@
 # jeoparody_textgeneration
 
-colab link : https://colab.research.google.com/drive/1OykELz1LIyKb9Vg4yZq6thAuIGSPJIpT?usp=sharing
+updated colab link : https://colab.research.google.com/drive/1F7EP_ra-2wiOprd71xf6DdhYAjA1GJY1?usp=sharing
+
 
